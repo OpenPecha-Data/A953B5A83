@@ -1,0 +1,15 @@
+id: A953B5A83
+title: 'MSV 6,07: Muktaka'
+type: translation
+pechas:
+- I7BBB39BC
+- I034194E4
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-10 00:17:07.693893
+  last_modified_at: 2023-02-10 00:17:07.693911
+alignment_to_base:
+  I7BBB39BC/AF39: AABC
+  I034194E4/C443: AABC
